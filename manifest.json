@@ -1,6 +1,6 @@
 {
   "name": "spirit",
-  "start_url": "/",
+  "start_url": "index.html",
   "lang": "ru-RU",
   "display": "standalone",
  "icons": [
